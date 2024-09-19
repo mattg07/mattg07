@@ -5,10 +5,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNjN21oOHAwMDlxaThycGdya3NiZDhzeWN5eDU5bWVudDJ1ejhwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif" width="250"/>
 </div>
 <div>
-Im from Spain <br>
-Currently learning Laravel <br>
+Im from Spain 🇪🇸 <br>
+Currently learning Laravel 📚 <br>
 Reach out to me 📧 matiasgodoydev@gmail.com <br>
-If im not in front of a screen im probably in a mountain 
+If im not in front of a screen im probably in a mountain 🏔️ <br>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/mat%C3%ADas-godoy-37685a28a/">
