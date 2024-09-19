@@ -9,11 +9,10 @@ Im from Spain <br>
 Currently learning Laravel 📚 <br>
 Reach out to me 📧 matiasgodoydev@gmail.com <br>
 If im not in front of a screen im probably in a mountain 🏔️ <br>
-</div style="padding-top: 15px;">
+<div style="padding: 10px;">
+  :hammer_and_wrench: Languages and Tools:
+</div>
 
- :hammer_and_wrench: Languages and Tools :
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
