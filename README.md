@@ -30,6 +30,7 @@ If im not in front of a screen im probably in a mountain 🏔️ <br>
 
 </div>
 <div id="badges">
+  <br>
   <a href="https://www.linkedin.com/in/mat%C3%ADas-godoy-37685a28a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
