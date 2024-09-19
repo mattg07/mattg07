@@ -1,5 +1,17 @@
 ## Hi there 👋 Im Matías | Fullstack - Front-End Developer.
 
+
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNjN21oOHAwMDlxaThycGdya3NiZDhzeWN5eDU5bWVudDJ1ejhwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif" width="250"/>
+</div>
+
+Reach out to me 📧 matiasgodoydev@gmail.com
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mat%C3%ADas-godoy-37685a28a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -14,17 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNjN21oOHAwMDlxaThycGdya3NiZDhzeWN5eDU5bWVudDJ1ejhwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif" width="250"/>
-</div>
-
-Reach out to me 📧 matiasgodoydev@gmail.com
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mat%C3%ADas-godoy-37685a28a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <!--
 **mattg07/mattg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
