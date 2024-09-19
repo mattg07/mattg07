@@ -4,10 +4,12 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNjN21oOHAwMDlxaThycGdya3NiZDhzeWN5eDU5bWVudDJ1ejhwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif" width="250"/>
 </div>
-Im from Spain 🇪🇸
-:notebook: Currently learning Laravel
+<div>
+Im from Spain 
+Currently learning Laravel
 Reach out to me 📧 matiasgodoydev@gmail.com
-If im not in front of a screen im probably in a mountain :mountain:
+If im not in front of a screen im probably in a mountain 
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/mat%C3%ADas-godoy-37685a28a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
