@@ -9,7 +9,7 @@ Im from Spain <br>
 Currently learning Laravel 📚 <br>
 Reach out to me 📧 matiasgodoydev@gmail.com <br>
 If im not in front of a screen im probably in a mountain 🏔️ <br>
-<div style="padding: 10px;">
+<div>
   :hammer_and_wrench: Languages and Tools:
 </div>
 
@@ -23,7 +23,8 @@ If im not in front of a screen im probably in a mountain 🏔️ <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/mat%C3%ADas-godoy-37685a28a/">
