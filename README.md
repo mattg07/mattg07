@@ -4,12 +4,12 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNjN21oOHAwMDlxaThycGdya3NiZDhzeWN5eDU5bWVudDJ1ejhwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuQI0IYqADwfm/giphy.gif" width="250"/>
 </div>
-<div>
+<div style="margin-bottom: 10px">
 Im from Spain <br>
 Currently learning Laravel 📚 <br>
 Reach out to me 📧 matiasgodoydev@gmail.com <br>
 If im not in front of a screen im probably in a mountain 🏔️ <br>
-<div style="margin-top: 10px">
+<div>
   :hammer_and_wrench: Languages and Tools:
 </div>
 
