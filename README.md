@@ -7,7 +7,6 @@
 <div>
   <br>
 Im from Spain <br>
-Currently learning Laravel 📚 <br>
 Reach out to me 📧 matiasgodoydev@gmail.com <br>
 If im not in front of a screen im probably in a mountain 🏔️ <br>
 <div>
